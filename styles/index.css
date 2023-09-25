@@ -73,8 +73,11 @@ h3 {
 }
 
 .text{
+    display: flex;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-items: center;
     text-align: center;
+    justify-content: center;
     color: aliceblue;
 }
 
@@ -125,5 +128,6 @@ img {
 
 .answer{
     color:aqua
+    
 }
 
